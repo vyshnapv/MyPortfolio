@@ -112,7 +112,7 @@ function About() {
       ))}
 
       {/* ── Who I Am — centered narrow div ── */}
-      <div className="max-w-4xl mx-auto px-6 py-24 relative z-10">
+      <div className="max-w-4xl mx-auto px-6 py-14 relative z-10">
 
         {/* Section Heading */}
         <motion.div
