@@ -152,8 +152,8 @@ function About() {
         {/* About Paragraphs */}
         <div className="space-y-6 text-center">
           {[
-            "I am a MERN Stack Developer with a strong foundation in building modern, scalable, and high-performance web applications. I specialize in JavaScript and work with technologies like React, Node.js, Express.js, and MongoDB to create seamless and user-friendly digital experiences. My focus is on writing clean, efficient code and developing applications that are not only functional but also intuitive and visually appealing.",
-            "I am passionate about continuous learning and staying updated with the latest industry trends and technologies. I enjoy solving complex problems and transforming ideas into practical, real-world solutions. With a collaborative mindset and strong communication skills, I work closely with clients and teams to understand requirements and deliver impactful products that add real value.",
+            "I am a Passionate and self-driven MERN Stack Developer with hands-on training at Brototype and a strong background as a self-learner. I build scalable full-stack web applications using MongoDB, Express.js, React, and Node.js, focusing on clean, maintainable, and high-performance code.",
+            "Skilled in creating responsive user interfaces, designing efficient databases, and implementing secure authentication systems. I enjoy learning new technologies, solving real-world problems, and working with others to turn ideas into simple and effective digital solutions.",
           ].map((para, i) => (
             <motion.p
               key={i}
